@@ -8,6 +8,7 @@ Obviously everyone is aware of the [Student Developer Pack](https://education.gi
 This section includes applications or services that offer a student plan/license for as long as you are a student
 
 - [JetBrains IDEs](https://www.jetbrains.com/community/education/#students/) (Get access to all of JetBrains paid IDEs)
+- [Notion](https://www.notion.so/help/notion-for-education) (A slightly varied version of the paid Plus plan)
 
 
 ## Student Offers
