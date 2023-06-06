@@ -8,6 +8,8 @@ Obviously everyone is aware of the [Student Developer Pack](https://education.gi
 This section includes applications or services that offer a student plan/license for as long as you are a student
 
 - [JetBrains IDEs](https://www.jetbrains.com/community/education/#students/) (Get access to all of JetBrains paid IDEs)
+- [Microsoft Office 365](https://www.microsoft.com/en-au/education/products/office) (Get access to Office, Teams + more)
+- [Monday](https://monday.com/education/students) (Free account for planning and organising your studies, and collaborating)
 - [Notion](https://www.notion.so/help/notion-for-education) (A slightly varied version of the paid Plus plan)
 
 
@@ -15,6 +17,8 @@ This section includes applications or services that offer a student plan/license
 This section includes application or services that offer a student trial/discount
 
 - [Adobe Creative Cloud](https://www.adobe.com/au/creativecloud/buy/students.html) (Get over 70% a Creative Cloud All Apps plan)
+- [Webflow](https://webflow.com/for/classroom) (Free 12 month plan for a portfolio and CMS site)
+- [YouTube Premium](https://www.youtube.com/premium/student) (USD$6.99 student offer + 1-month trial, normally USD$11.99)
 
 
 ## Contributing
