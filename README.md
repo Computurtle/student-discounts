@@ -19,6 +19,7 @@ This section includes application or services that offer a student trial/discoun
 
 - [Adobe Creative Cloud](https://www.adobe.com/au/creativecloud/buy/students.html) (Get over 70% a Creative Cloud All Apps plan)
 - [EnvantoElements](https://elements.envato.com/pricing/students) (USD$11.50 for unlimited creative assets/templates, normally USD$16.50)
+- [Spotify](https://www.spotify.com/us/student/) (Get 1 month free and then 50% off individual plan pricing)
 - [Squarespace](https://www.squarespace.com/students/) (Get 50% off your first year)
 - [Webflow](https://webflow.com/for/classroom) (Free 12 month plan for a portfolio and CMS site)
 - [YouTube Premium](https://www.youtube.com/premium/student) (USD$6.99 student offer + 1-month trial, normally USD$11.99)
