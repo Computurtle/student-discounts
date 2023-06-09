@@ -13,7 +13,7 @@ Commit the changes once you are done, ensure you followed the style guide below.
 When you're finished with the changes, [create a pull request](https://github.com/Computurtle/student-discounts/compare), also known as a PR.
 
 ## Style guide
-- Format a new entries as follows
+- Format new entries as follows
   - \[Product Name](Link to product for students) (Short information about the deal)
 - Ensure the new entry is in the correct category
 - Ensure the new entry is alphabetical order
