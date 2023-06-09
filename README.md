@@ -1,7 +1,7 @@
 # Student Discounts
 A list of applications or services that offer free student plans or student discounts!
 
-Obviously everyone is aware of the [Student Developer Pack](https://education.github.com/pack) offered by, but this doesn't include everything you can access with a student email.
+Obviously everyone is aware of the [Student Developer Pack](https://education.github.com/pack) offered by GitHub, but this doesn't include everything you can access with a student email.
 
 
 ## Student Licenses
