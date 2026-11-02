@@ -9,6 +9,7 @@ This section includes applications or services that offer a student plan/license
 
 - [Figma](https://www.figma.com/education/) (Get access to Figma and FigJam for free whilst a student)
 - [JetBrains IDEs](https://www.jetbrains.com/community/education/#students/) (Get access to all of JetBrains paid IDEs)
+- [Kilobat Pro](https://kilobat.app/students) (Free for one year on two Macs; renew while studying with a school email)
 - [Microsoft Office 365](https://www.microsoft.com/en-au/education/products/office) (Get access to Office, Teams + more)
 - [Monday](https://monday.com/education/students) (Free account for planning and organising your studies, and collaborating)
 - [Notion](https://www.notion.so/help/notion-for-education) (A slightly varied version of the paid Plus plan)
